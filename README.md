@@ -10,7 +10,7 @@
 - 📫 How to reach me **kshitijmoghe10@gmail.com**
 
 - ⚡ Fun fact **I love playing games**
-- MOST OF MY PROJECTS ARENT OPENSOURCE IF YOU WANT TO KNOW ABOUT MY PROJECTS PLEASE CONTACT ME
+- MOST OF MY PROJECTS ARENT OPENSOURCE IF YOU WANT TO KNOW ABOUT MY PROJECTS PLEASE CONTACT ME : kshitijmoghe10@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
