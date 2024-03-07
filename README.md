@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Tech Updation Website**
 
-- 🌱 I’m currently learning **Rust , NodeJS ,**
+- 🌱 I’m currently learning **React , NodeJS ,**
 
 - 💬 Ask me about **HTML , CSS , JS , PYTHON**
 
